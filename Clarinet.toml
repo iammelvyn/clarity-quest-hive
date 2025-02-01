@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/quest-core.clar"
 depends_on = []
 
+[contracts.reward-system]
+path = "contracts/reward-system.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
